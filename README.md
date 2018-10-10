@@ -1,6 +1,6 @@
 # ml_algorithms
 Machine learning algorithms done in Python
-# Dimensioanity reduction
+# Dimensionality reduction
  *   PCA
   *  Kernel PCA (rbf, polynomial, sigmoid kernels)
   
